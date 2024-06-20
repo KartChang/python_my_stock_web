@@ -1,8 +1,10 @@
 import os
 import logging
+import json
 from flask import request,render_template,flash,abort,url_for,redirect,session,Flask,g
 from app import app
-from app.repository.my_stock import stockRepository
+from app.model import baseMode
+from app.repository.my_stock.stockRepository import StockRepository
 
 controllerName = os.path.splitext(os.path.basename(__file__))[0]
 
@@ -13,5 +15,6 @@ def index_At_home():
     if not session.get('logged_in'):
         # abort(401)
         return redirect(url_for('in_At_log'))
-    dataset = stockRepository
+    dataset = StockRepository().Find(None)
+    return json.dumps(dataset, cls=baseMode.ComplexEncoder)
     return "Hello, MVC框架!" + os.path.splitext(os.path.basename(__file__))[0]

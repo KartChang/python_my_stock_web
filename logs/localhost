@@ -1,66 +1,78 @@
-2024-06-18 16:18:35,490	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-06-20 10:40:29,779	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:7780
-2024-06-18 16:18:35,490	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
-2024-06-18 16:18:35,493	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:18:35,823	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:18:35,829	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
-2024-06-18 16:18:40,545	ERROR	log.py:10	login
-2024-06-18 16:18:40,553	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:18:40] "GET /log/in HTTP/1.1" 200 -
-2024-06-18 16:45:54,509	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+2024-06-20 10:40:29,785	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-20 10:40:29,790	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:40:30,168	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:40:30,176	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:40:33,957	ERROR	home.py:13	session logged_in: Y
+2024-06-20 10:40:33,999	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:40:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-20 10:40:34,211	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-20 10:40:34,330	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-20 10:40:34,404	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:40:34,740	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:40:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:42:17,197	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\home.py', reloading
+2024-06-20 10:42:17,268	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:42:17,927	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:42:17,936	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:42:23,008	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\my_stock\\stockRepository.py', reloading
+2024-06-20 10:42:23,060	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:42:23,482	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:42:23,489	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:42:26,287	ERROR	home.py:13	session logged_in: Y
+2024-06-20 10:42:26,322	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:26] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-20 10:42:26,350	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-20 10:42:26,540	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-20 10:42:26,873	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:42:27,129	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:27] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:42:46,105	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on http://127.0.0.1:7780
-2024-06-18 16:45:54,509	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
-2024-06-18 16:45:54,513	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:45:54,855	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:45:54,863	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
-2024-06-18 16:46:08,855	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:46:08] "[35m[1mGET / HTTP/1.1[0m" 500 -
-2024-06-18 16:46:09,102	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:46:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
-2024-06-18 16:46:09,192	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:46:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
-2024-06-18 16:46:09,204	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:46:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:46:09,534	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:46:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:48:09,994	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\home.py', reloading
-2024-06-18 16:48:10,044	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:48:10,672	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:48:10,679	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
-2024-06-18 16:48:14,296	ERROR	home.py:11	session logged_in: 
-2024-06-18 16:48:14,298	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:48:14] "[32mGET / HTTP/1.1[0m" 302 -
-2024-06-18 16:48:14,309	ERROR	log.py:10	login
-2024-06-18 16:48:14,316	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:48:14] "GET /log/in HTTP/1.1" 200 -
-2024-06-18 16:48:24,279	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:48:24] "[35m[1mPOST /log/in HTTP/1.1[0m" 500 -
-2024-06-18 16:48:24,561	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:48:24] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
-2024-06-18 16:48:24,608	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:48:24] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
-2024-06-18 16:48:24,944	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:48:24] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:48:25,193	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:48:25] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:50:26,687	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\log.py', reloading
-2024-06-18 16:50:26,732	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:50:27,173	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:50:27,179	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
-2024-06-18 16:50:31,773	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:50:31] "[35m[1mPOST /log/in HTTP/1.1[0m" 500 -
-2024-06-18 16:50:31,799	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:50:31] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
-2024-06-18 16:50:31,976	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:50:31] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
-2024-06-18 16:50:32,297	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:50:32] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:50:32,554	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:50:32] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:52:12,734	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\log.py', reloading
-2024-06-18 16:52:12,854	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:52:13,214	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:52:13,221	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
-2024-06-18 16:52:17,514	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:52:17] "[35m[1mPOST /log/in HTTP/1.1[0m" 500 -
-2024-06-18 16:52:17,532	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:52:17] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
-2024-06-18 16:52:17,777	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:52:17] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
-2024-06-18 16:52:18,114	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:52:18] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:52:18,362	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:52:18] "[36mGET /log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
-2024-06-18 16:54:03,919	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\__init__.py', reloading
-2024-06-18 16:54:03,972	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:54:04,417	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:54:04,424	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
-2024-06-18 16:54:08,807	ERROR	log.py:18	login-Y
-2024-06-18 16:54:08,808	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:54:08] "[32mPOST /log/in HTTP/1.1[0m" 302 -
-2024-06-18 16:54:08,814	ERROR	home.py:11	session logged_in: Y
-2024-06-18 16:54:08,815	INFO	_internal.py:97	127.0.0.1 - - [18/Jun/2024 16:54:08] "GET / HTTP/1.1" 200 -
-2024-06-18 16:54:26,732	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\__init__.py', reloading
-2024-06-18 16:54:26,793	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:54:27,231	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:54:27,239	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
-2024-06-18 16:54:53,649	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\log.py', reloading
-2024-06-18 16:54:53,701	INFO	_internal.py:97	 * Restarting with stat
-2024-06-18 16:54:54,114	WARNING	_internal.py:97	 * Debugger is active!
-2024-06-18 16:54:54,120	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:42:46,106	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-20 10:42:46,110	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:42:46,457	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:42:46,463	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:42:48,382	ERROR	home.py:13	session logged_in: Y
+2024-06-20 10:42:48,424	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-20 10:42:48,451	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-20 10:42:48,639	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-20 10:42:48,969	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:42:49,224	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:42:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:43:42,432	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\my_stock\\stockRepository.py', reloading
+2024-06-20 10:43:42,546	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:43:42,969	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:43:42,975	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:43:53,170	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\home.py', reloading
+2024-06-20 10:43:53,236	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:43:53,604	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:43:53,610	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:44:09,295	ERROR	home.py:13	session logged_in: Y
+2024-06-20 10:44:10,522	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:44:10] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-20 10:44:10,542	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:44:10] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-20 10:44:10,544	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:44:10] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-20 10:44:10,869	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:44:10] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:44:11,117	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:44:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:56:29,817	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-20 10:56:29,817	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-20 10:56:29,822	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:56:30,211	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:56:30,217	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:56:35,201	ERROR	home.py:13	session logged_in: Y
+2024-06-20 10:56:36,543	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:56:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-06-20 10:56:36,573	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:56:36] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-20 10:56:36,574	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:56:36] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-20 10:56:36,921	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:56:36] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:56:37,177	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:56:37] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-20 10:57:13,901	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\home.py', reloading
+2024-06-20 10:57:13,962	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 10:57:14,374	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 10:57:14,381	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 10:57:16,713	ERROR	home.py:14	session logged_in: Y
+2024-06-20 10:57:18,001	INFO	_internal.py:97	127.0.0.1 - - [20/Jun/2024 10:57:18] "GET / HTTP/1.1" 200 -
+2024-06-20 11:02:12,644	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\__init__.py', reloading
+2024-06-20 11:02:12,695	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 11:02:13,136	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 11:02:13,142	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-20 11:03:31,441	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\controller\\log.py', reloading
+2024-06-20 11:03:31,494	INFO	_internal.py:97	 * Restarting with stat
+2024-06-20 11:03:31,894	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-20 11:03:31,903	INFO	_internal.py:97	 * Debugger PIN: 259-074-455

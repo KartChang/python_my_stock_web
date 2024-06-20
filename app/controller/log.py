@@ -15,5 +15,6 @@ def in_post_At_log():
     if 'logged_in' not in session:
         session['logged_in'] = ''
     session['logged_in'] = 'Y'
+    # session.permanent = True #設定Session於重開瀏覽器後是否還有效
     logging.error('login-Y')
     return redirect(url_for('index_At_home'))
