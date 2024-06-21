@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        
+        <meta name="robots" content="noindex,nofollow">
+        <meta name="googlebot" content="noindex,nofollow">
+        
+
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <title>webTitle</title>
+        <meta content="" name="keywords">
+        <meta content="" name="description">
+
+        <!-- Favicon -->
+        <link href="img/favicon.ico" rel="icon">
+        
+        <!-- Google Web Fonts -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/google_fonts.css') }}">
+        
+        <!-- Icon Font Stylesheet -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome5.10.0.css') }}">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-icons1.4.1.css') }}">
+
+        <!-- Libraries Stylesheet -->
+        <link href="{{ url_for('static', filename='lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
+        {# <link href="{{ url_for('static', filename='lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" /> #}
+
+        <!-- Customized Bootstrap Stylesheet -->
+        <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+        
+        <link rel="stylesheet" href="{{ url_for('static', filename='plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css') }}">
+        
+        <!-- DataTables -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='plugins/datatables/dataTables.css') }}">
+
+        <style type="text/css" lang="scss">
+            :root {
+                --primary: #FFFFFF;
+                --light: #AAA;
+                --normal-font-color: #DDD;
+                --normal-bg-color: #191C24;
+            }
+
+            body {
+                color: var(--normal-font-color);
+            }
+
+            .border {
+                border: 1px solid #666 !important;
+            }
+
+            a {
+                color: #AAA;
+                text-decoration: none;
+            }
+
+            a:hover{
+                color: #FFF;
+            }
+
+            .btn-secondary {
+                color: #fff;
+                background-color: #333;
+                border-color: #333;
+            }
+
+            .table {
+                --bs-table-bg: rgba(0,0,0,0);
+                --bs-table-striped-color: var(--normal-font-color);
+                --bs-table-striped-bg: rgba(0,0,0,0.05);
+                --bs-table-active-color: var(--normal-font-color);
+                --bs-table-active-bg: rgba(0,0,0,0.1);
+                --bs-table-hover-color: var(--normal-font-color);
+                --bs-table-hover-bg: rgba(150,150,150,0.2);
+                width: 100%;
+                margin-bottom: 1rem;
+                color: var(--normal-font-color);
+                vertical-align: top;
+                border-color: #000;
+            }
+            
+            .modal-content {
+                background-color: var(--normal-bg-color);
+            }
+
+            .btn-close {
+                background-color: #666;
+            }
+
+            .card-header {
+                background-color: rgba(0,0,0,0.35);
+            }
+
+            label.error {
+                font-size: 12px;
+                color: red;
+            }
+
+            .text-right {
+                text-align: right;
+            }
+
+            .dataTables_paginate .pagination {
+                flex-direction: row-reverse
+            }
+        </style>
+	</head>
+	<body>
+        <div id="app" class="container-fluid position-relative d-flex p-0">
+            
+            <!-- Spinner Start -->
+            <div id="spinner" class="show bg-dark position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+                <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+                    <span class="sr-only">Loading...</span>
+                </div>
+            </div>
+            <!-- Spinner End -->
+
+
+            <!-- Sidebar Start -->
+            <div class="sidebar pe-4 pb-3">
+                <nav class="navbar bg-secondary navbar-dark">
+                    <a href="" class="navbar-brand mx-4 mb-3">
+                        <h3 class="text-white">webName</h3>
+                    </a>
+                    <div class="navbar-nav w-100">
+                        <a href="" class="nav-item nav-link active"><i class="fa fa-home me-2"></i>CM開通查詢</a>
+                        <a href="" class="nav-item nav-link"><i class="fa fa-mobile me-2"></i>簡訊發送</a>
+                        <a href="" class="nav-item nav-link"><i class="fa fa-retweet me-2"></i>CMMAC查詢</a>
+                        <a href="" class="nav-item nav-link"><i class="fa fa-building me-2"></i>ONT綁固I</a>
+                        <a href="" class="nav-item nav-link"><i class="fa fa-info-circle me-2"></i>設備連接狀態</a>
+                    </div>
+                </nav>
+            </div>
+            <!-- Sidebar End -->
+            
+            <!-- Content Start -->
+            <div class="content">
+
+                <!-- Navbar Start -->
+                <nav class="navbar navbar-expand bg-secondary navbar-dark sticky-top px-4 py-0">
+                    <a href="#" class="sidebar-toggler flex-shrink-0 mt-2 mb-2">
+                        <i class="fa fa-bars"></i>
+                    </a>
+                    <div class="navbar-brand d-lg-none" style="width: 100%; text-align: center; padding-right: 25px;">
+                        寬頻管理系統
+                    </div>
+                </nav>
+                <!-- Navbar End -->
+
+
+                <div class="d-flex justify-content-between mt-3 px-4 align-items-end">
+                    <h2 style="font-weight: 500;">CM開通查詢</h5>
+                    <div>
+                        <a href=""><i class="fa fa-home me-2"></i>Home</a> / CM開通查詢
+                    </div>
+                </div>
+                
+                <div class="container-fluid pt-2 px-4">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-12">
+                            <div class="bg-secondary rounded h-100 p-4">
+                                <form id="search_form">
+                                    <div class="row g-4">
+                                        <div class="col-sm-12 col-xl-3">
+                                            <label for="text" class="form-label">訂編(舊客編)</label>
+                                        </div>
+                                        <div class="col-sm-12 col-xl-4">
+                                            <input type="text" class="form-control" name="custIdSearch">
+                                        </div>
+                                        <div class="col-sm-12 col-lg-auto">
+                                            <button type="button" class="btn btn-success">查詢</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="container-fluid pt-4 px-4">
+                    <div class="bg-secondary rounded p-4">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <h6 class="mb-0">Top 10</h6>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-striped text-start align-middle table-hover mb-0" id="data_list">
+                                <thead>
+                                    <tr>
+                                        <th>個股代碼</th>
+                                        <th>個股名稱</th>
+                                        <th>成交股數</th>
+                                        <th>成交金額</th>
+                                        <th>開盤價</th>
+                                        <th>最高價</th>
+                                        <th>最低價</th>
+                                        <th>收盤價</th>
+                                        <th>漲跌價差</th>
+                                        <th>成交筆數</th>
+                                        <th>漲跌價差2</th>
+                                        <th>漲跌百分比</th>
+                                        <th class="text-center all">操作</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Footer Start -->
+                <div class="container-fluid pt-4 px-4">
+                    <div class="bg-secondary rounded-top p-4">
+                        <div class="row">
+                            <div class="col-12 col-sm-6 text-center text-sm-start">
+                                Copyright &copy;  2023 全國數位有線電視 . All rights reserved.
+                            </div>
+                            <div class="col-12 col-sm-6 text-center text-sm-end">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer End -->
+
+                <!-- Back to Top -->
+                <a href="#" class="btn btn-lg btn-light btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+            </div>
+
+        </div>
+
+        <!-- JavaScript Libraries -->
+        <script src="{{ url_for('static', filename='js/jquery-3.4.1.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+        <!-- <script src="lib/chart/chart.min.js"></script> -->
+        <script src="{{ url_for('static', filename='lib/easing/easing.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='lib/waypoints/waypoints.min.js') }}"></script>
+        <!-- <script src="lib/owlcarousel/owl.carousel.min.js"></script> -->
+        <!-- <script src="lib/tempusdominus/js/moment.min.js"></script> -->
+        <!-- <script src="lib/tempusdominus/js/moment-timezone.min.js"></script> -->
+        <!-- <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script> -->
+        <script src="{{ url_for('static', filename='plugins/jquery-validation-1.19.5/jquery.validate.min.js') }}"></script>
+        
+        <script src="{{ url_for('static', filename='plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js') }}"></script>
+        <script src="{{ url_for('static', filename='plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js') }}"></script>
+
+        <!-- Template Javascript -->
+        <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+        
+        <!-- DataTables  & Plugins -->
+        <script src="{{ url_for('static', filename='plugins/datatables/dataTables.js') }}"></script>
+        <script type=text/javascript>
+            $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+        </script>
+        <script>
+            var dataTableObj = null;
+            $(function () {
+                $.extend( DataTable.ext.classes, {
+                    sLengthSelect: "custom-select custom-select-sm form-control-sm"
+                } );
+                dataTableObj = $('#data_list').DataTable({
+                    responsive: {
+                        details: {
+                            display: DataTable.Responsive.display.modal({
+                                header: function (row) {
+                                    var data = row.data();
+                                    return '簡要資訊： ' + (data.Name == '' || data.Name == null ? '' : data.Name) + (data.Code == '' || data.Code == null ? '' : '(' + data.Code + ')');
+                                }
+                            }),
+                            renderer: DataTable.Responsive.renderer.tableAll({
+                                tableClass: 'table'
+                            })
+                        }
+                    },
+                    "lengthChange": true,
+                    "autoWidth": false,
+                    layout: {
+                        topStart: {
+                            buttons: ['copy', 'csv', 'excel', 'pdf', 'print', 'colvis']
+                        },
+                        topEnd: 'pageLength',
+                        bottomStart: 'info',
+                        bottomEnd: 'paging'
+                    },
+                    // "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"],
+                    // dom: '<"row"<"col-sm-6"f><"col-sm-6 text-right"l>>' +
+                    //     '<"row"<"col-sm-12"tr>>' +
+                    //     '<"row mt-3 "<"col-sm-6"i><"col-sm-6"p>>',
+                    "language": {
+                        url: "{{ url_for('static', filename='plugins/datatables/i18n/zh-HANT.json') }}",
+                    },
+                    "searching": false,
+                    "order": [[11, "desc"]],
+                    createdRow: function (row, data, dataIndex) {
+                        //console.log(data);
+                        //$(row).addClass('clickable-row').attr('data-href', data.ModifyUrl);
+                    },
+                    // "columnDefs": [ {
+                    //     "targets": 1,
+                    //     "createdCell": function (td, cellData, rowData, row, col) {
+                    //         $(td).attr('title', rowData.Name);
+                    //     }
+                    // } ],
+                    "processing": true,
+                    "serverSide": true,
+                    "stateSave": true,
+                    "stateSaveCallback": function(settings,data) {
+                        localStorage.setItem('DataTables_{{ model.CtrlName }}_{{ model.ActName}}_' + settings.sInstance, JSON.stringify(data) )
+                    },
+                    "stateLoadCallback": function(settings) {
+                        console.log('load DataTables_{{ model.CtrlName }}_{{ model.ActName}}_' + settings.sInstance);
+                        return JSON.parse( localStorage.getItem( 'DataTables_{ model.CtrlName }}_{{ model.ActName}}_' + settings.sInstance ) )
+                    },
+                    "ajax": {
+                        "url": "{{ url_for('get_top_10_change_At_home', ajax='true', total_length=100)|safe }}",
+                        "type": "POST",
+                        "data": $("#search_form").serialize(),
+                        "error": function (xhr, status, error) {
+                            console.log(xhr.responseText);
+                        }
+                    },
+                    "columns": [
+                        { "name": "Code", "data": "Code" }, 
+                        { "name": "Name", "data": "Name" },
+                        { "name": "TradeVolume", "data": "TradeVolume" }, 
+                        { "name": "TradeValue", "data": "TradeValue" },
+                        { "name": "OpeningPrice", "data": "OpeningPrice" }, 
+                        { "name": "HighestPrice", "data": "HighestPrice" },
+                        { "name": "LowestPrice", "data": "LowestPrice" }, 
+                        { "name": "ClosingPrice", "data": "ClosingPrice" },
+                        { "name": "Change", "data": "Change" }, 
+                        { "name": "Transaction", "data": "Transaction" }, 
+                        { "name": "Change2", "data": "Change2" }, 
+                        { "name": "Change_Percentage", "data": "Change_Percentage" },
+                        {
+                            "name": "OPTION",
+                            "data": function (source, type, val) {
+                                var content = '\
+                                <a href="' + source.Code + '" class="btn btn-default iframe-link" data-tab-title="編輯:' + (source.Name == '' || source.Name == null ? '' : source.Name) + (source.Code == '' || source.Code == null ? '' : '(' + source.Code + ') - ') + '"><i class="icon-clipboard6"></i>編輯</a>\
+                                ';
+                                //content += '\
+                                //<a href=\"#\" class=\"btn btn-default delete\" del-url=\"' + source.DeleteUrl + '\" data-name=\"' + source.Name + '\" data-id=\"' + source.Id + '\"><i class=\"icon-cross2\"></i>刪除</a>\
+                                //';
+                                return content;
+                            },
+                            "bSortable": false
+                        }
+                    ],
+                    "initComplete": function (settings, json) {
+                        dataTableObj.buttons().container().appendTo('#data_list_wrapper .col-sm-6:eq(0)');
+                    },
+                    "drawCallback": function (settings) {
+                        console.log('drawCallback');
+                        $("#data_list").off("click");
+                        /*if (dataTableObj.fnSettings()._iDisplayStart > dataTableObj.fnSettings()._iRecordsTotal) {
+                            setTimeout(function () { dataTableObj.fnPageChange('first'); }, 500);
+                        }*/
+                        if (dataTableObj.page.info().start > dataTableObj.page.info().recordsTotal) {
+                            setTimeout(function () { dataTableObj.page('first').draw('page'); }, 500);
+                        }
+
+                        $("#data_list").on("click", "a.delete", function (e) { DeleteDataListItem(e, $(this).data("name"), $(this).data("del-url"), "", dataTableObj); });
+                        $('#data_list input').each(function () {
+                            $(this).closest('td').css('padding-top', '0').css('padding-bottom', '0').css('vertical-align', 'middle').find('input[type=number]').css('padding', '0').css('padding-left', '5px');
+                        });
+                        $('#data_list td>div.list-icons').each(function () {
+                            $(this).closest('td').addClass('text-center');
+                        });
+
+                        $('#data_list .clickable-row').on('click', function () { location.href = $(this).data('href'); });
+
+                        $('#data_list tbody tr').find('td:not\(:first-child\)').not(":last").on('click', function(){
+                            $('#data_list tbody tr').removeClass('active');
+                            $(this).closest('tr').find('td:first-child').trigger('click');
+                            $(this).closest('tr').addClass('active');
+                        });
+                    }
+                });
+            });
+        </script>
+
+	</body>
+</html>

@@ -2,6 +2,18 @@ import json
 from datetime import date, datetime
 
 
+class CMS_QueryModel:
+    def __init__(self):
+        self.ajax = ''
+        self.draw = None
+        self.start = None
+        self.length = None
+        self.total_length = None
+        self.order = {'column':[], 'sort':[], 'sort_asc':[]}
+        self.columns = []
+    def __str__(self):
+        return str(self.__class__) + ": " + str(self.__dict__)
+
 class DbType:
     Sqlsrv = 1,
     MySql = 2,
