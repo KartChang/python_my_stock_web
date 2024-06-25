@@ -1,4 +1,6 @@
 
+from functools import wraps
+from flask import request,render_template,flash,abort,url_for,redirect,session,Flask,g,jsonify
 
 def df_conv_col_type(df, cols, to, ignore=False):
     '''
@@ -26,3 +28,44 @@ def conv_to_list(obj):
     else:
         results = obj
     return results
+
+# def check_cms_is_login(func):
+    
+#     def warp():
+#         print('check_cms_is_login')
+#         print("Now use function '{}'".format(func.__name__))
+#         IsLogin = False
+#         if 'CMS_User_Info' in session and session['CMS_User_Info'] != None and session['CMS_User_Info'] != '':
+#         # if session != None:
+#             print('sess----------------------')
+#             func()
+#         return redirect(url_for('in_At_log_At_cms'))
+#     return warp
+
+def cms_login_required(UserSessionKey, RedirectFuncName):
+    def decorator(func):
+        @wraps(func)
+        def wrapped(*args, **kwargs):
+            if UserSessionKey in session and session[UserSessionKey] != None and session[UserSessionKey] != '':
+                return func(*args, **kwargs)
+            return redirect(url_for(RedirectFuncName))
+        return wrapped
+    return decorator
+
+    print('check_cms_is_login')
+    IsLogin = False
+    # if 'CMS_User_Info' in session and session['CMS_User_Info'] != None and session['CMS_User_Info'] != '':
+    if session != None:
+        IsLogin = True
+        pass
+    print('------------------------is_login:' + ('success' if IsLogin == True else 'fail'))
+    # return True if IsLogin == True else redirect(url_for('in_At_log_At_cms'))
+    return redirect(url_for('in_At_log_At_cms'))
+    # return func()
+
+def StringIsNullOrWhiteSpace(SourceStr:str=None):
+    if SourceStr == None:
+        return True
+    if not SourceStr.strip():
+        return True
+    return False

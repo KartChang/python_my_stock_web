@@ -1,0 +1,1530 @@
+2024-06-24 10:46:58,189	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 10:46:59,061	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 10:46:59,066	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 10:50:01,063	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 10:50:01,213	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 10:50:02,027	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 10:50:02,031	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 10:50:49,606	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 10:50:49,701	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 10:50:50,462	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 10:50:50,466	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 10:51:34,582	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 10:51:34,683	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 10:51:35,483	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 10:51:35,492	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 10:53:57,181	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 10:53:57,283	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:15:01,237	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 11:15:01,238	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 11:15:01,240	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:15:01,972	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:15:01,976	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:15:07,699	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:07] "GET / HTTP/1.1" 200 -
+2024-06-24 11:15:07,781	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:07] "[36mGET /assets/plugins/bootstrap-5.3.3/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:15:08,103	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:08] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 11:15:08,103	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:08] "[36mGET /assets/plugins/bootstrap-5.3.3/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:15:08,104	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:08] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 11:15:08,112	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:08] "[36mGET /assets/plugins/carousel/carousel.css HTTP/1.1[0m" 304 -
+2024-06-24 11:15:12,186	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:12] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:15:12,247	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:15:12] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:16:00,246	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\__init__.py', reloading
+2024-06-24 11:16:00,346	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:16:01,135	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:16:01,140	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:16:04,714	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:16:04,807	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:16:05,571	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:16:05,578	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:16:06,234	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:06] "[35m[1mGET /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 11:16:06,298	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:06] "GET /cms/log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-24 11:16:06,481	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:06] "GET /cms/log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-24 11:16:06,800	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:06] "GET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-24 11:16:07,055	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:07] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 11:16:33,788	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:16:33,888	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:16:34,639	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:16:34,644	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:16:34,782	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:34] "[35m[1mGET /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 11:16:34,798	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:34] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:16:34,841	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:34] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 11:16:35,169	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:35] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 11:16:35,418	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:16:35] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 11:17:10,366	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:17:10,456	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:17:11,224	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:17:11,235	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:17:11,383	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:11] "[35m[1mGET /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 11:17:11,410	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:11] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:11,411	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:11] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:11,747	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:11] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 11:17:11,988	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:11] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 11:17:30,273	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:17:30,364	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:17:31,137	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:17:31,142	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:17:31,279	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:31] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:17:31,521	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:31] "GET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1" 200 -
+2024-06-24 11:17:31,568	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:31] "GET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 -
+2024-06-24 11:17:31,847	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:31] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:31,889	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:31] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:31,890	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:31] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:31,920	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:31] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:32,015	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:32] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:32,015	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:32] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:32,437	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:32] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:17:38,861	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:38] "[35m[1mPOST /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 11:17:51,713	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:51] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:51,713	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:51] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:51,713	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:51] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:55,734	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:55] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:17:56,040	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,091	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,091	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,092	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,092	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,092	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,346	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,410	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:17:56,743	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:56] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:17:58,160	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:17:58] "[35m[1mPOST /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 11:20:40,079	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:20:40,172	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:20:42,274	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:20:42,280	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:20:45,184	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:20:45,213	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:20:45,420	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:20:45,516	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:20:45,517	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:20:45,597	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:20:45,597	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:20:45,599	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:20:45,724	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:45] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:20:46,068	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:46] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:20:46,928	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:20:46] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:21:07,132	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:21:07,222	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:21:31,916	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 11:21:31,917	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 11:21:31,918	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:21:32,706	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:21:32,712	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:33:27,286	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 11:33:27,297	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 11:33:27,299	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:33:27,973	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:33:27,979	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:34:38,588	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app.py', reloading
+2024-06-24 11:34:38,678	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:34:39,386	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:34:39,390	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:34:42,432	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:42] "GET / HTTP/1.1" 200 -
+2024-06-24 11:34:42,457	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:42] "GET /assets/plugins/bootstrap-5.3.3/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-06-24 11:34:42,778	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:42] "GET /assets/css/font-awesome5.10.0.css HTTP/1.1" 200 -
+2024-06-24 11:34:42,788	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:42] "GET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1" 200 -
+2024-06-24 11:34:42,814	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:42] "GET /assets/plugins/carousel/carousel.css HTTP/1.1" 200 -
+2024-06-24 11:34:42,823	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:42] "GET /assets/plugins/bootstrap-5.3.3/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2024-06-24 11:34:43,130	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:43] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:34:46,085	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:34:46,188	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 -
+2024-06-24 11:34:46,353	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-06-24 11:34:46,524	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 -
+2024-06-24 11:34:46,543	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/css/style.css HTTP/1.1" 200 -
+2024-06-24 11:34:46,545	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/js/main.js HTTP/1.1" 200 -
+2024-06-24 11:34:46,554	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/lib/waypoints/waypoints.min.js HTTP/1.1" 200 -
+2024-06-24 11:34:46,578	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1" 200 -
+2024-06-24 11:34:46,701	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:46] "GET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 -
+2024-06-24 11:34:47,085	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:47] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:34:48,365	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:48] "POST /cms/log/in2 HTTP/1.1" 200 -
+2024-06-24 11:34:52,212	ERROR	log.py:34	login-Y
+2024-06-24 11:34:52,214	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:52] "[32mGET /cms/log/in2 HTTP/1.1[0m" 302 -
+2024-06-24 11:34:52,377	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:34:52] "GET /assets/fonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+2024-06-24 11:35:41,071	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:35:41,188	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:35:41,897	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:35:41,913	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:35:43,522	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:35:43] "GET /cms/log/in2 HTTP/1.1" 200 -
+2024-06-24 11:35:43,741	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:35:43] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:36:05,353	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:36:05,479	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:36:06,165	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:36:06,170	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:36:07,769	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:07] "GET /cms/log/in2 HTTP/1.1" 200 -
+2024-06-24 11:36:07,869	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:07] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:36:15,900	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:36:15,966	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:36:16,649	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:36:16,649	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:36:19,857	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:19] "GET /cms/log/in2 HTTP/1.1" 200 -
+2024-06-24 11:36:19,931	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:19] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:36:31,756	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:36:31,859	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:36:32,579	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:36:32,583	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:36:39,160	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:36:39,262	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:36:39,955	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:36:39,960	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:36:50,245	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:36:50,272	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:36:50,494	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:36:50,582	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:36:50,584	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:36:50,584	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:36:50,584	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:36:50,588	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:36:50,802	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:50] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:36:51,123	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:51] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:36:51,958	ERROR	log.py:34	login-Y
+2024-06-24 11:36:51,959	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:51] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 11:36:52,592	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:52] "GET / HTTP/1.1" 200 -
+2024-06-24 11:36:55,963	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:55] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:36:56,267	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:56] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:36:56,268	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:36:56] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:37:40,855	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:37:40,965	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:37:41,649	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:37:41,653	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:37:43,383	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:37:43,436	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:37:43,605	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:37:43,741	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:37:43,741	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:37:43,743	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:37:43,745	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:37:43,758	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:37:43,915	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:43] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:37:44,237	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:44] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:37:45,308	ERROR	log.py:35	login-Y
+2024-06-24 11:37:45,312	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:45] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 11:37:45,924	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:37:45] "GET / HTTP/1.1" 200 -
+2024-06-24 11:38:08,171	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:38:08,271	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:38:09,060	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:38:09,064	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:38:16,640	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:38:16,736	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:38:17,432	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:38:17,437	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:38:18,610	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:38:18,654	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:38:18,819	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:38:18,964	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:38:18,965	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:38:18,965	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:38:18,966	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:38:18,990	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:18] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:38:19,122	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:19] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:38:19,453	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:19] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:38:20,096	ERROR	log.py:38	login-Y
+2024-06-24 11:38:20,098	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:20] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 11:38:20,729	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:38:20] "GET / HTTP/1.1" 200 -
+2024-06-24 11:39:44,314	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\view_models\\cms\\CMS_Log_ViewModel.py', reloading
+2024-06-24 11:39:44,427	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:39:45,153	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:39:45,153	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:39:46,471	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:39:46,507	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:39:46,712	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:39:46,808	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:39:46,808	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:39:46,809	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:39:46,812	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:39:46,814	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:46] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:39:47,019	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:47] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:39:47,375	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:47] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:39:47,839	ERROR	log.py:38	login-Y
+2024-06-24 11:39:47,841	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:47] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 11:39:48,478	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:39:48] "GET / HTTP/1.1" 200 -
+2024-06-24 11:40:18,170	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\view_models\\cms\\CMS_Log_ViewModel.py', reloading
+2024-06-24 11:40:18,266	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:40:18,954	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:40:18,964	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:40:19,284	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:40:19,326	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:40:19,506	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:40:19,644	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:19,646	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:40:19,651	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:19,653	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:19,661	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:19,819	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:19] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:20,142	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:20] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:40:20,897	ERROR	log.py:38	login-Y
+2024-06-24 11:40:20,899	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:20] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 11:40:21,497	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:21] "GET / HTTP/1.1" 200 -
+2024-06-24 11:40:53,495	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\view_models\\cms\\CMS_Log_ViewModel.py', reloading
+2024-06-24 11:40:53,589	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:40:54,312	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:40:54,317	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:40:55,382	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:40:55,465	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:40:55,607	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:40:55,779	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:55,781	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:40:55,782	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:55,789	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:55,791	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:55,918	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:55] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:40:56,268	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:56] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:40:56,560	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:40:56] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:41:22,215	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:41:22,317	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:41:23,024	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:41:23,028	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:41:34,881	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:34] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:41:34,901	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:34] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,122	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,234	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,236	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,237	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,238	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,239	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,433	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:41:35,784	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:35] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:41:37,084	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:37] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:41:39,411	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:39] "GET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 -
+2024-06-24 11:41:39,731	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:39] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:41:44,305	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:44] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:41:44,409	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:41:44] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:42:52,506	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:42:52] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 11:42:52,618	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:42:52] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:43:40,076	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:43:40,361	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,448	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,451	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,453	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,455	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,473	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,667	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,777	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 11:43:40,777	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:40] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 11:43:41,133	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:41] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 11:43:41,677	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 11:43:41] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 11:44:52,299	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\view_models\\cms\\CMS_Log_ViewModel.py', reloading
+2024-06-24 11:44:52,389	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:44:53,116	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:44:53,116	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:45:27,567	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\view_models\\cms\\CMS_Log_ViewModel.py', reloading
+2024-06-24 11:45:27,677	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:45:28,408	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:45:28,412	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 11:47:37,302	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 11:47:37,396	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 11:47:38,094	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 11:47:38,109	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:05:33,153	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 12:05:33,153	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 12:05:33,155	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:05:33,836	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:05:33,840	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:05:36,774	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:36] "GET / HTTP/1.1" 200 -
+2024-06-24 12:05:36,797	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:36] "[36mGET /assets/plugins/bootstrap-5.3.3/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:37,112	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:37] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:37,115	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:37] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:37,120	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:37] "[36mGET /assets/plugins/carousel/carousel.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:37,126	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:37] "[36mGET /assets/plugins/bootstrap-5.3.3/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,033	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:05:42,092	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,261	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,406	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,408	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,409	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,413	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,426	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,564	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 12:05:42,723	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:42] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 12:05:43,065	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:43] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 12:05:47,739	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %{Account}s 
+2024-06-24 12:05:47,739	ERROR	baseRepository.py:41	execute() got an unexpected keyword argument 'Id'
+2024-06-24 12:05:47,740	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:05:47] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:08:07,359	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:08:07,505	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:08:08,211	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:08:08,215	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:08:12,481	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %{Account}s 
+2024-06-24 12:08:12,482	ERROR	baseRepository.py:41	unsupported format character '{' (0x7b) at index 44
+2024-06-24 12:08:12,483	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:08:12] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:08:44,715	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:08:44,849	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:08:45,516	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:08:45,521	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:08:48,899	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %{Account}s 
+2024-06-24 12:08:48,900	ERROR	baseRepository.py:41	unsupported format character '{' (0x7b) at index 44
+2024-06-24 12:08:48,901	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:08:48] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:09:54,037	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:09:54,133	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:09:54,901	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:09:54,905	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:09:56,367	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %{Account}s 
+2024-06-24 12:09:56,368	ERROR	baseRepository.py:43	unsupported format character '{' (0x7b) at index 44
+2024-06-24 12:09:56,370	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:09:56] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:10:36,889	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:10:36,981	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:10:37,681	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:10:37,686	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:10:40,394	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %{Account}s 
+2024-06-24 12:10:40,395	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:10:40,396	ERROR	baseRepository.py:47	unsupported format character '{' (0x7b) at index 44
+2024-06-24 12:10:40,397	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:10:40] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:11:17,420	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:11:17,555	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:11:18,248	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:11:18,252	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:11:21,062	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:11:21,063	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:11:21,067	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:11:21,068	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:11:21,069	ERROR	baseRepository.py:40	query4--------
+2024-06-24 12:11:21,069	ERROR	baseRepository.py:43	len(RowItem): 11
+2024-06-24 12:11:21,070	ERROR	baseRepository.py:47	vars() argument must have __dict__ attribute
+2024-06-24 12:11:21,072	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:11:21] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:12:03,347	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:12:03,442	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:12:04,142	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:12:04,146	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:12:07,872	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:12:07,873	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:12:07,875	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:12:07,875	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:12:07,876	ERROR	baseRepository.py:40	query4--------
+2024-06-24 12:12:07,876	ERROR	baseRepository.py:43	len(RowItem): 11
+2024-06-24 12:12:07,876	ERROR	baseRepository.py:47	Object of type datetime is not JSON serializable
+2024-06-24 12:12:07,877	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:12:07] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:47:50,924	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:47:51,026	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:47:51,753	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:47:51,757	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:47:54,466	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:47:54,467	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:47:54,470	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:47:54,472	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:47:54,472	ERROR	baseRepository.py:40	query4--------
+2024-06-24 12:47:54,473	ERROR	baseRepository.py:43	len(RowItem): 11
+2024-06-24 12:47:54,478	ERROR	baseRepository.py:44	[3, "kart", "\u5f35\u5143\u9d3b", "A0749", "\u8cc7\u8a0a\u8655", 99999, 1, "A0749 \u5f35\u5143\u9d3b", "2022-08-03 12:17:19", "3 \u5f35\u5143\u9d3b", "2022-08-03 15:57:22"]
+2024-06-24 12:47:54,479	ERROR	log.py:45	login-Y-----------------
+2024-06-24 12:47:54,481	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:47:54] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 12:47:55,006	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:47:55] "GET / HTTP/1.1" 200 -
+2024-06-24 12:49:37,480	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:49:37,588	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:49:38,349	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:49:38,354	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:49:41,739	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:49:41,739	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:49:41,742	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:49:41,744	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:49:41,744	ERROR	baseRepository.py:40	query4--------
+2024-06-24 12:49:41,745	ERROR	baseRepository.py:43	len(RowItem): 11
+2024-06-24 12:49:41,746	ERROR	baseRepository.py:44	[["Id", 8, null, 20, 20, 0, false], ["Account", 253, null, 20, 20, 0, true], ["Name", 253, null, 50, 50, 0, true], ["EmployeeNo", 253, null, 10, 10, 0, true], ["Department", 253, null, 20, 20, 0, true], ["Sort", 3, null, 11, 11, 0, true], ["Status", 1, null, 1, 1, 0, true], ["CreateUserId", 253, null, 20, 20, 0, true], ["CreateTime", 12, null, 19, 19, 0, true], ["UpdateUserId", 253, null, 20, 20, 0, true], ["UpdateTime", 12, null, 19, 19, 0, true]]
+2024-06-24 12:49:41,747	ERROR	baseRepository.py:45	[3, "kart", "\u5f35\u5143\u9d3b", "A0749", "\u8cc7\u8a0a\u8655", 99999, 1, "A0749 \u5f35\u5143\u9d3b", "2022-08-03 12:17:19", "3 \u5f35\u5143\u9d3b", "2022-08-03 15:57:22"]
+2024-06-24 12:49:41,748	ERROR	log.py:45	login-Y-----------------
+2024-06-24 12:49:41,754	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:49:41] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 12:49:42,286	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:49:42] "GET / HTTP/1.1" 200 -
+2024-06-24 12:54:29,623	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:54:29,726	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:54:30,447	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:54:30,451	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:54:34,471	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:54:34,472	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:54:34,475	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:54:34,475	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:54:34,476	ERROR	baseRepository.py:40	query4--------
+2024-06-24 12:54:34,476	ERROR	baseRepository.py:43	len(RowItem): 11
+2024-06-24 12:54:34,477	ERROR	baseRepository.py:50	Object of type Cursor is not JSON serializable
+2024-06-24 12:54:34,478	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:54:34] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:55:05,928	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:55:06,024	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:55:06,745	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:55:06,750	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:55:10,301	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:55:10,301	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:55:10,302	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:55:10,303	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:55:10,303	ERROR	baseRepository.py:40	query4--------
+2024-06-24 12:55:10,303	ERROR	baseRepository.py:43	len(RowItem): 11
+2024-06-24 12:55:10,304	ERROR	baseRepository.py:45	[["Id", 8, null, 20, 20, 0, false], ["Account", 253, null, 20, 20, 0, true], ["Name", 253, null, 50, 50, 0, true], ["EmployeeNo", 253, null, 10, 10, 0, true], ["Department", 253, null, 20, 20, 0, true], ["Sort", 3, null, 11, 11, 0, true], ["Status", 1, null, 1, 1, 0, true], ["CreateUserId", 253, null, 20, 20, 0, true], ["CreateTime", 12, null, 19, 19, 0, true], ["UpdateUserId", 253, null, 20, 20, 0, true], ["UpdateTime", 12, null, 19, 19, 0, true]]
+2024-06-24 12:55:10,304	ERROR	baseRepository.py:46	[3, "kart", "\u5f35\u5143\u9d3b", "A0749", "\u8cc7\u8a0a\u8655", 99999, 1, "A0749 \u5f35\u5143\u9d3b", "2022-08-03 12:17:19", "3 \u5f35\u5143\u9d3b", "2022-08-03 15:57:22"]
+2024-06-24 12:55:10,304	ERROR	baseRepository.py:50	'int' object is not iterable
+2024-06-24 12:55:10,305	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:55:10] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:55:47,271	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:55:47,372	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:55:48,065	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:55:48,070	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:55:51,401	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:55:51,401	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:55:51,402	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:55:51,403	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:55:51,403	ERROR	baseRepository.py:40	query4--------
+2024-06-24 12:55:51,403	ERROR	baseRepository.py:43	len(RowItem): 11
+2024-06-24 12:55:51,403	ERROR	baseRepository.py:46	[["Id", 8, null, 20, 20, 0, false], ["Account", 253, null, 20, 20, 0, true], ["Name", 253, null, 50, 50, 0, true], ["EmployeeNo", 253, null, 10, 10, 0, true], ["Department", 253, null, 20, 20, 0, true], ["Sort", 3, null, 11, 11, 0, true], ["Status", 1, null, 1, 1, 0, true], ["CreateUserId", 253, null, 20, 20, 0, true], ["CreateTime", 12, null, 19, 19, 0, true], ["UpdateUserId", 253, null, 20, 20, 0, true], ["UpdateTime", 12, null, 19, 19, 0, true]]
+2024-06-24 12:55:51,403	ERROR	baseRepository.py:47	[3, "kart", "\u5f35\u5143\u9d3b", "A0749", "\u8cc7\u8a0a\u8655", 99999, 1, "A0749 \u5f35\u5143\u9d3b", "2022-08-03 12:17:19", "3 \u5f35\u5143\u9d3b", "2022-08-03 15:57:22"]
+2024-06-24 12:55:51,404	ERROR	baseRepository.py:51	'int' object is not iterable
+2024-06-24 12:55:51,404	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:55:51] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:56:31,876	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:56:31,982	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:56:32,705	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:56:32,711	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:56:33,920	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:56:33,920	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:56:33,921	ERROR	baseRepository.py:36	query2--------
+2024-06-24 12:56:33,922	ERROR	baseRepository.py:38	query3--------
+2024-06-24 12:56:33,960	ERROR	baseRepository.py:42	query4--------
+2024-06-24 12:56:33,961	ERROR	baseRepository.py:51	object of type 'NoneType' has no len()
+2024-06-24 12:56:33,963	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:56:33] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:57:03,964	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:57:04,077	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:57:04,795	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:57:04,799	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 12:57:06,414	ERROR	baseRepository.py:31	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 12:57:06,415	ERROR	baseRepository.py:34	query1--------
+2024-06-24 12:57:06,418	ERROR	baseRepository.py:38	query2--------
+2024-06-24 12:57:06,419	ERROR	baseRepository.py:40	query3--------
+2024-06-24 12:57:06,420	ERROR	baseRepository.py:42	query4--------
+2024-06-24 12:57:06,420	ERROR	baseRepository.py:51	object of type 'NoneType' has no len()
+2024-06-24 12:57:06,424	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 12:57:06] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 12:57:15,524	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 12:57:15,614	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 12:57:16,315	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 12:57:16,320	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:10:57,406	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 13:10:57,532	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:38:59,578	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 13:38:59,578	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 13:38:59,580	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:39:00,371	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:39:00,377	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:39:05,287	ERROR	baseRepository.py:42	SqlStr: SELECT * FROM `UserData` WHERE `Account` = %(Account)s 
+2024-06-24 13:39:05,288	ERROR	baseRepository.py:45	query1--------
+2024-06-24 13:39:05,291	ERROR	baseRepository.py:47	query2--------
+2024-06-24 13:39:05,292	ERROR	baseRepository.py:49	query3--------
+2024-06-24 13:39:05,294	ERROR	baseRepository.py:52	query4--------
+2024-06-24 13:39:05,295	ERROR	baseRepository.py:61	object of type 'NoneType' has no len()
+2024-06-24 13:39:05,296	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:39:05] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 13:45:29,332	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 13:45:29,435	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:45:30,109	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:45:30,114	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:50:40,618	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 13:50:40,721	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:50:41,415	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:50:41,419	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:50:43,596	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\my_stock\\userRepository.py', reloading
+2024-06-24 13:50:43,714	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:50:44,427	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:50:44,431	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:50:48,473	ERROR	log.py:45	login-Y-----------------
+2024-06-24 13:50:48,475	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:50:48] "[32mPOST /cms/log/in HTTP/1.1[0m" 302 -
+2024-06-24 13:50:49,009	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:50:49] "GET / HTTP/1.1" 200 -
+2024-06-24 13:51:06,879	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\baseRepository.py', reloading
+2024-06-24 13:51:06,978	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:51:07,708	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:51:07,713	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:52:11,199	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 13:52:11,330	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:52:12,018	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:52:12,022	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:52:15,079	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:52:15] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 13:52:15,586	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:52:15] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 13:52:15,624	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:52:15] "GET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-24 13:52:15,933	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:52:15] "GET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-24 13:52:16,317	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:52:16] "GET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-24 13:52:16,576	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 13:52:16] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 13:53:09,348	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 13:53:09,481	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:53:10,260	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:53:10,264	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 13:55:50,677	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 13:55:50,677	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 13:55:50,678	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 13:55:51,404	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 13:55:51,408	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 14:19:36,547	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\log.py', reloading
+2024-06-24 14:19:36,673	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 14:19:37,360	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 14:19:37,364	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 14:24:35,616	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\home.py', reloading
+2024-06-24 14:24:35,735	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 14:57:16,120	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 14:57:16,120	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 14:57:16,122	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 14:57:16,851	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 14:57:16,855	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 14:57:24,591	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:24] "GET / HTTP/1.1" 200 -
+2024-06-24 14:57:24,625	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:24] "[36mGET /assets/plugins/bootstrap-5.3.3/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:24,943	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:24] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:24,946	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:24] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:24,949	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:24] "[36mGET /assets/plugins/bootstrap-5.3.3/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 14:57:24,949	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:24] "[36mGET /assets/plugins/carousel/carousel.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:24,960	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:24] "[36mGET /assets/plugins/bootstrap-5.3.3/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:25,258	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:25] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 14:57:25,269	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:25] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:25,272	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:25] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:25,274	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:25] "[36mGET /assets/plugins/bootstrap-5.3.3/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 14:57:25,376	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:25] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 14:57:25,614	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:25] "[36mGET /assets/plugins/carousel/carousel.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:35,679	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:35] "[35m[1mGET /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 14:57:35,697	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:35] "GET /cms/log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-24 14:57:35,840	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:35] "GET /cms/log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-24 14:57:36,219	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:36] "GET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-24 14:57:36,475	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:36] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 14:57:40,168	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:40] "GET /cms/ HTTP/1.1" 200 -
+2024-06-24 14:57:40,477	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:40] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 14:57:43,926	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:43] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 14:57:43,948	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:43] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 14:57:44,106	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:44] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 14:57:44,463	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:57:44] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 14:58:28,076	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 14:58:28,186	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 14:58:28,923	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 14:58:28,928	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 14:58:31,058	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:58:31] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 14:58:31,078	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:58:31] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 14:58:31,079	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:58:31] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 14:58:31,414	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:58:31] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 14:58:31,671	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:58:31] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 14:58:58,851	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 14:58:58,965	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 14:58:59,647	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 14:58:59,652	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 14:59:04,211	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:04] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 14:59:04,227	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:04] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 14:59:04,227	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:04] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 14:59:04,557	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:04] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 14:59:04,806	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:04] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 14:59:19,878	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 14:59:19,980	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 14:59:20,721	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 14:59:20,726	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 14:59:21,216	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:21] "[32mGET /cms HTTP/1.1[0m" 302 -
+2024-06-24 14:59:21,290	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:21] "[35m[1mGET /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 14:59:21,471	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:21] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 14:59:21,654	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:21] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 14:59:21,987	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 14:59:21] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:00:02,243	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\__init__.py', reloading
+2024-06-24 15:00:02,347	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:00:03,081	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:00:03,085	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:00:52,368	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 15:00:52,369	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 15:00:52,370	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:00:53,040	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:00:53,045	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:00:55,691	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:00:55] "[35m[1mGET /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 15:00:55,710	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:00:55] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:00:55,864	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:00:55] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 15:00:56,202	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:00:56] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:00:56,456	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:00:56] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:01:28,233	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\home.py', reloading
+2024-06-24 15:01:28,326	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:01:29,101	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:01:29,107	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:01:31,342	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:01:31,376	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:31,571	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:31,693	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:31,701	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:31,702	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:31,706	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:31,709	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:31,881	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:31] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:32,011	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:32] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:32,351	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:32] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 15:01:39,794	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\home.py', reloading
+2024-06-24 15:01:39,881	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:01:40,610	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:01:40,614	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:01:41,623	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:01:41,646	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:41,858	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:41,962	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:41,963	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:41,965	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:41,965	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:41,966	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:41] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:42,168	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:42] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:42,280	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:42] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:42,609	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:42] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 15:01:50,264	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:50] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 15:01:50,278	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:50] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:01:50,591	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:50] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 15:01:50,846	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:50] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:01:50,941	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:01:50] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:02:46,777	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\home.py', reloading
+2024-06-24 15:02:46,868	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:02:47,547	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:02:47,551	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:02:48,872	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:02:48] "[32mGET /cms HTTP/1.1[0m" 302 -
+2024-06-24 15:02:48,939	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:02:48] "[35m[1mGET /cms/log/in HTTP/1.1[0m" 500 -
+2024-06-24 15:02:49,129	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:02:49] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:02:49,269	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:02:49] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 15:02:49,612	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:02:49] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:02:49,873	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:02:49] "[36mGET /cms/log/in?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:22:18,118	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 15:22:18,206	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:22:18,960	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:22:18,964	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:22:23,267	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 15:22:23,363	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:22:24,035	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:22:24,039	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:22:32,727	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\home.py', reloading
+2024-06-24 15:22:32,822	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:23:32,164	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 15:23:32,164	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 15:23:32,166	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:23:32,840	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:23:32,845	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:23:39,318	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[32mGET /cms HTTP/1.1[0m" 302 -
+2024-06-24 15:23:39,336	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:23:39,571	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:23:39,690	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 15:23:39,690	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:23:39,693	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:23:39,693	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:23:39,711	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:23:39,879	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:39] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 15:23:40,010	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:40] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 15:23:40,010	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:40] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:23:40,345	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:40] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 15:23:47,012	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:47] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:23:47,671	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:47] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 15:23:47,695	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:47] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:23:47,696	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:47] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 15:23:48,025	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:48] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:23:48,281	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:23:48] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:24:15,467	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 15:24:15,555	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:24:16,219	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:24:16,226	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:25:21,667	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\home.py', reloading
+2024-06-24 15:25:21,760	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:25:28,220	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 15:25:28,220	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 15:25:28,221	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:25:28,930	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:25:28,934	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:25:41,667	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 15:25:41,769	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:25:42,427	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:25:42,432	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:25:52,037	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\utility_tools\\function.py', reloading
+2024-06-24 15:25:52,135	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:25:52,829	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:25:52,834	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:25:58,992	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:25:58] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 15:25:59,013	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:25:59] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:25:59,013	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:25:59] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 15:25:59,341	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:25:59] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:25:59,600	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:25:59] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:26:07,660	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:07] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:26:07,947	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:07] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,023	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,023	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,023	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,027	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,028	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,257	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,336	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,336	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:26:08,662	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:08] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 15:26:13,606	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:13] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:26:14,024	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:14] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 15:26:14,060	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:14] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:26:14,194	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:14] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 15:26:14,529	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:14] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:26:14,785	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:26:14] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 15:29:02,809	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\home.py', reloading
+2024-06-24 15:29:02,903	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 15:29:03,595	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 15:29:03,599	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 15:29:08,476	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "GET /cms HTTP/1.1" 200 -
+2024-06-24 15:29:08,577	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "GET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1" 200 -
+2024-06-24 15:29:08,655	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "GET /assets/css/google_fonts.css HTTP/1.1" 200 -
+2024-06-24 15:29:08,827	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:29:08,828	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:29:08,829	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:29:08,844	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "GET /assets/plugins/datatables/dataTables.css HTTP/1.1" 200 -
+2024-06-24 15:29:08,928	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:08] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 15:29:09,073	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 15:29:09,164	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/js/jquery-3.4.1.min.js HTTP/1.1" 200 -
+2024-06-24 15:29:09,171	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/js/bootstrap.bundle.min.js HTTP/1.1" 200 -
+2024-06-24 15:29:09,192	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/lib/easing/easing.min.js HTTP/1.1" 200 -
+2024-06-24 15:29:09,220	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1" 200 -
+2024-06-24 15:29:09,232	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 15:29:09,393	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1" 200 -
+2024-06-24 15:29:09,547	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1" 200 -
+2024-06-24 15:29:09,554	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:29:09,555	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 15:29:09,557	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1" 200 -
+2024-06-24 15:29:09,575	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:09] "GET /assets/plugins/datatables/dataTables.js HTTP/1.1" 200 -
+2024-06-24 15:29:10,466	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:10] "GET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1" 200 -
+2024-06-24 15:29:10,477	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:10] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 15:29:10,968	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:29:10] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 15:43:47,935	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:47] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:43:47,960	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:47] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:43:48,367	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 15:43:48,393	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/css/bootstrap.min.css HTTP/1.1" 200 -
+2024-06-24 15:43:48,401	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:43:48,402	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1" 200 -
+2024-06-24 15:43:48,402	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/lib/waypoints/waypoints.min.js HTTP/1.1" 200 -
+2024-06-24 15:43:48,407	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/css/style.css HTTP/1.1" 200 -
+2024-06-24 15:43:48,707	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1" 200 -
+2024-06-24 15:43:48,716	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/js/main.js HTTP/1.1" 200 -
+2024-06-24 15:43:48,724	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1" 200 -
+2024-06-24 15:43:48,726	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:48] "GET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1" 200 -
+2024-06-24 15:43:49,107	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:43:49] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 15:44:00,132	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[32mGET /cms/home HTTP/1.1[0m" 302 -
+2024-06-24 15:44:00,435	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,496	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,496	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,497	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,497	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,498	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,738	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,803	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 15:44:00,803	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:00] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:44:01,131	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:01] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 15:44:07,766	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:07] "[36mGET /assets/plugins/bootstrap-5.3.3/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:08,060	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:08] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:08,076	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:08] "[36mGET /assets/plugins/carousel/carousel.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:08,077	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:08] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 15:44:08,079	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:08] "[36mGET /assets/plugins/bootstrap-5.3.3/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 15:44:08,463	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:08] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 15:44:08,728	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 15:44:08] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:06:40,243	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:40] "GET / HTTP/1.1" 200 -
+2024-06-24 16:06:40,465	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:40] "[36mGET /assets/plugins/bootstrap-5.3.3/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:40,589	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:40] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:40,595	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:40] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:40,598	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:40] "[36mGET /assets/plugins/carousel/carousel.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:40,608	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:40] "[36mGET /assets/plugins/bootstrap-5.3.3/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:06:40,620	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:40] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:06:42,255	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[32mGET /cms HTTP/1.1[0m" 302 -
+2024-06-24 16:06:42,269	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 16:06:42,511	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,617	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,619	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,619	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,626	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,628	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,822	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,925	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 16:06:42,928	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:42] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:06:43,255	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:43] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:06:43,758	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:43] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 16:06:49,034	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:49] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 16:06:49,326	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:49] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 16:06:49,357	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:49] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 16:06:49,656	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:49] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 16:06:49,734	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:49] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 16:06:50,065	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:06:50] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 16:07:00,996	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:00] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 16:07:01,254	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:01] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 16:07:01,326	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:01] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:01,671	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:01] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 16:07:01,926	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:01] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 16:07:21,660	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:21] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:07:21,950	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:21] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:21,980	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:21] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:21,986	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:21] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:21,987	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:21] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:22,034	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:22] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:22,048	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:22] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:22,259	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:22] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:22,284	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:22] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:22,292	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:22] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:22,773	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:22] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:07:23,312	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:23] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:07:28,261	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:07:28,547	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,590	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,591	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,599	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,603	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,604	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,865	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,960	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:28,961	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:28] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:29,328	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:29] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:07:29,332	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:29] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:07:31,074	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:31] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:07:45,734	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:45] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:07:46,013	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,074	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,080	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,082	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,083	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,086	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,334	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,388	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,397	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:07:46,768	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:07:46,770	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:46] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:07:47,235	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:07:47] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:08:10,279	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:08:10,559	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,606	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,610	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,610	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,611	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,611	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,869	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,925	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:10,926	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:10] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:11,367	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:11] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:08:11,368	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:11] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:08:11,812	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:11] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:08:19,903	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:19] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:08:20,191	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,251	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,254	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,254	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,251	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,258	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,498	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,564	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,565	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,567	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,582	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,585	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,811	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,875	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,876	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,884	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:20,891	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:20] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:21,298	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:21] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:08:21,337	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:21] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:08:21,772	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:21] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:08:30,241	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:08:30,539	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,575	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,577	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,578	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,580	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,582	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,849	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,882	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:30,891	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:30] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:31,321	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:31] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:08:31,324	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:31] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:08:31,800	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:31] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:08:36,255	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:08:36,541	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,586	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,587	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,587	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,591	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,592	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,856	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,902	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,908	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,915	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,927	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:36,943	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:36] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,173	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,212	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,281	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,282	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,291	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,339	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,482	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,851	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:08:37,852	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:37] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:08:38,283	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:08:38] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:09:13,277	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:09:13,554	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,635	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,635	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,643	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,652	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,653	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,873	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,943	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,948	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,955	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,965	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:13,972	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:13] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,187	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,256	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,260	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,266	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,281	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,303	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,496	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,855	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:09:14,862	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:14] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:09:15,574	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:15] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:09:23,825	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:23] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:09:33,357	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:33] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:09:33,637	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:09:33] "GET /favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:16:50,931	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:50] "GET /cms HTTP/1.1" 200 -
+2024-06-24 16:16:50,960	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:50] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,141	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,276	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,277	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,278	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,280	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,280	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,453	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,587	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,588	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,592	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,597	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,598	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,767	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,903	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,905	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,905	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,914	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:51,919	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:51] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 16:16:52,396	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:52] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 16:16:52,411	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:52] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 16:16:52,880	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 16:16:52] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 16:28:39,299	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 16:28:39,410	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 16:28:40,223	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 16:28:40,230	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 16:39:26,739	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\my_stock\\userRepository.py', reloading
+2024-06-24 16:39:26,836	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 16:39:27,611	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 16:39:27,615	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 16:44:04,686	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 16:44:04,779	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 16:44:05,585	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 16:44:05,589	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 16:49:57,394	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 16:49:57,489	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 16:49:58,245	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 16:49:58,249	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 16:53:34,153	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\model\\baseMode.py', reloading
+2024-06-24 16:53:34,262	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 16:53:35,037	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 16:53:35,042	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 16:59:09,683	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\my_stock\\userRepository.py', reloading
+2024-06-24 16:59:09,771	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 16:59:10,465	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 16:59:10,470	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 16:59:19,862	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 16:59:19,862	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 16:59:19,863	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 16:59:20,543	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 16:59:20,548	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:00:09,560	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "[32mGET /cms HTTP/1.1[0m" 302 -
+2024-06-24 17:00:09,591	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "GET /cms/log/in HTTP/1.1" 200 -
+2024-06-24 17:00:09,820	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:09,930	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:09,935	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:09,944	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:09,947	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:09,948	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:09] "[36mGET /assets/lib/owlcarousel/owl.carousel.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:10,135	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:10] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:10,243	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:10] "[36mGET /assets/cms/plugins/jquery-validation-1.19.5/jquery.validate.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:10,244	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:10] "[36mGET /assets/cms/plugins/sweetalert/sweetalert.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:10,588	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:10] "GET /cms/log/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:00:14,227	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:14] "POST /cms/log/in HTTP/1.1" 200 -
+2024-06-24 17:00:14,955	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:14] "[35m[1mGET /cms HTTP/1.1[0m" 500 -
+2024-06-24 17:00:14,972	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:14] "[36mGET /cms?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:14,972	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:14] "[36mGET /cms?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:15,317	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:15] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:00:15,559	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:15] "[36mGET /cms?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:00:38,581	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\__init__.py', reloading
+2024-06-24 17:00:38,679	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:00:39,387	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:00:39,393	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:00:41,435	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "GET /cms HTTP/1.1" 200 -
+2024-06-24 17:00:41,452	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:41,454	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:41,765	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:41,765	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:41,769	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:41,781	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:41,786	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:41,787	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:41] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,089	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,091	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,113	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,116	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,117	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,117	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,403	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,404	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,428	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,430	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,436	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,898	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:00:42,905	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:42] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:00:43,405	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:00:43] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 17:01:16,003	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "GET /cms HTTP/1.1" 200 -
+2024-06-24 17:01:16,299	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,358	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,359	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,361	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,364	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,366	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,610	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,667	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,668	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,675	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,681	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,684	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,916	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,983	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,983	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,984	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:16,998	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:16] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:17,026	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:17] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:17,229	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:17] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:17,647	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:17] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:01:17,648	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:17] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:01:18,138	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:18] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 17:01:34,933	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:34] "GET /cms HTTP/1.1" 200 -
+2024-06-24 17:01:35,236	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,261	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,265	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,278	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,281	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,284	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,548	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,574	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,581	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,587	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,602	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,612	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,862	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,884	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,891	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,908	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,946	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:35,969	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:35] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:36,172	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:36] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:36,611	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:36] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:01:36,627	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:36] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:01:37,070	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:37] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 17:01:49,995	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:49] "GET /cms HTTP/1.1" 200 -
+2024-06-24 17:01:50,292	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,339	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,344	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,345	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,353	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,356	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,605	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,644	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,654	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,661	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,673	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,674	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,917	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,950	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,963	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,970	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,988	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:50,997	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:50] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:51,229	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:51] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:01:51,620	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:51] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:01:51,622	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:51] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:01:52,057	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:01:52] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 17:02:01,705	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:01] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,006	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,006	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,008	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,012	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,021	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,027	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,317	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:02,347	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "GET /assets/js/bootstrap.bundle.min.js.map HTTP/1.1" 200 -
+2024-06-24 17:02:02,350	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "GET /assets/plugins/datatables/pdfmake.js.map HTTP/1.1" 200 -
+2024-06-24 17:02:02,664	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:02] "GET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css.map HTTP/1.1" 200 -
+2024-06-24 17:02:24,762	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:02:24,862	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:02:25,644	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:02:25,649	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:02:32,294	INFO	_internal.py:97	[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:7780
+2024-06-24 17:02:32,295	INFO	_internal.py:97	[33mPress CTRL+C to quit[0m
+2024-06-24 17:02:32,297	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:02:33,050	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:02:33,055	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:02:35,762	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:35] "GET /cms HTTP/1.1" 200 -
+2024-06-24 17:02:35,817	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:35] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:35,818	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:35] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,138	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,139	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,140	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,140	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,141	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,142	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,448	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,450	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,452	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,456	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,465	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,469	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,760	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,765	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,771	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,777	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:36,782	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:36] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:37,251	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:37] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:02:37,258	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:37] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:02:37,722	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:37] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 17:02:47,775	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:02:47,867	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:02:48,599	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:02:48,603	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:02:50,970	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:50] "GET /cms HTTP/1.1" 200 -
+2024-06-24 17:02:50,985	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:50] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:50,988	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:50] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,292	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,301	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,301	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,316	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,317	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,320	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,610	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,624	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,627	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,636	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,641	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,651	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,922	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,949	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,978	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,956	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:51,995	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:51] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:02:52,369	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:52] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:02:52,374	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:52] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:02:52,904	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:02:52] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 17:03:31,408	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:03:31,498	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:03:32,231	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:03:32,240	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:03:46,954	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:03:47,049	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:03:47,771	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:03:47,776	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:03:50,133	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:03:50,224	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:03:50,941	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:03:50,947	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:03:52,753	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:52] "GET /cms HTTP/1.1" 200 -
+2024-06-24 17:03:52,786	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:52] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:52,788	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:52] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,107	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,108	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,110	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,111	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,123	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,124	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,422	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,435	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,438	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,440	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,446	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,455	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,736	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,759	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,765	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,770	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:53,773	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:53] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:03:54,222	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:54] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:03:54,232	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:54] "GET /img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:03:54,669	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:54] "POST /home/get_top_10_change?ajax=true&total_length=100 HTTP/1.1" 200 -
+2024-06-24 17:03:55,582	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:03:55,625	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:55] "[35m[1mGET /cms/user HTTP/1.1[0m" 500 -
+2024-06-24 17:03:55,882	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:55] "GET /cms/user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-06-24 17:03:55,954	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:55] "GET /cms/user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-06-24 17:03:56,282	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:56] "GET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-06-24 17:03:56,538	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:03:56] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,108	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:04:45,147	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:04:45,418	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,486	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,486	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,487	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,489	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,491	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,726	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,799	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,804	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,811	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,812	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:45,813	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:45] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,039	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,116	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,118	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,119	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,122	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,151	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,358	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,742	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:04:46,752	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:46] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:04:46,997	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:04:47,002	ERROR	userRepository.py:37	not all arguments converted during string formatting
+2024-06-24 17:04:47,019	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:04:47] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:05:03,281	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:05:03,338	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:05:03] "[35m[1mGET /cms/user HTTP/1.1[0m" 500 -
+2024-06-24 17:05:03,584	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:05:03] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:05:03,674	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:05:03] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 17:05:04,001	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:05:04] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:05:04,255	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:05:04] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:06:25,644	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:06:25,715	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:06:25] "[35m[1mGET /cms/user HTTP/1.1[0m" 500 -
+2024-06-24 17:06:25,736	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:06:25] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:06:25,900	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:06:25] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 17:06:26,243	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:06:26] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:06:26,490	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:06:26] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:07:22,240	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:07:22,295	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:22] "[35m[1mGET /cms/user HTTP/1.1[0m" 500 -
+2024-06-24 17:07:22,544	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:22] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:22,616	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:22] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:22,943	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:22] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:07:23,190	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:23] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,135	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:07:31,158	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:07:31,439	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,506	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,508	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,515	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,516	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,518	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,751	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,822	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,825	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,838	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,845	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:31,847	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:31] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,074	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,138	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,243	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,244	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,246	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,265	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,384	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,867	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:07:32,873	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:32] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:07:33,119	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:07:33,133	ERROR	userRepository.py:37	not all arguments converted during string formatting
+2024-06-24 17:07:33,152	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:33] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:07:47,517	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:07:47,572	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:47] "[35m[1mGET /cms/user HTTP/1.1[0m" 500 -
+2024-06-24 17:07:47,824	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:47] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:07:47,895	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:47] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-06-24 17:07:48,210	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:48] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:07:48,463	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:07:48] "[36mGET /cms/user?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-06-24 17:08:24,342	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:08:24,366	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:08:24,653	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:24,742	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:24,743	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:24,743	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:24,747	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:24,747	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:24,975	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:24] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,052	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,052	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,053	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,061	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,063	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,284	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,378	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,380	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,382	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,382	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,409	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:25,594	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:25] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:08:26,019	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:26] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:08:26,025	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:26] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:08:26,273	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:08:26,287	ERROR	userRepository.py:37	not all arguments converted during string formatting
+2024-06-24 17:08:26,307	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:08:26] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:09:50,058	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\my_stock\\userRepository.py', reloading
+2024-06-24 17:09:50,164	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:09:51,024	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:09:51,029	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:09:53,432	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:09:53,818	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:53] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:09:53,850	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:53] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:53,852	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:53] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,155	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,156	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,157	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,167	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,175	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,176	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,465	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,466	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,467	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,480	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,485	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,493	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,777	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,778	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,778	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,791	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:54,799	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:54] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:09:55,256	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:55] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:09:55,261	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:55] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:09:55,511	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:09:55,526	ERROR	userRepository.py:39	not all arguments converted during string formatting
+2024-06-24 17:09:55,558	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:09:55] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:11:02,535	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\repository\\my_stock\\userRepository.py', reloading
+2024-06-24 17:11:02,671	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:11:03,433	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:11:03,438	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:11:05,635	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:11:05,988	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:05] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:11:06,017	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,020	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,325	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,325	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,326	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,329	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,340	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,343	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,641	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,655	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,656	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,657	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,664	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,665	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,957	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,965	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,965	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,968	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:06,973	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:06] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:11:07,433	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:07] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:11:07,434	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:07] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:11:07,676	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:11:07,717	ERROR	userRepository.py:36	len(RowItems): 6
+2024-06-24 17:11:07,757	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:11:07] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:14:50,867	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:14:50,958	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:14:51,704	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:14:51,709	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:14:54,538	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:14:54,882	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:54] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:14:54,903	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:54] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:54,904	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:54] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,210	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,213	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,215	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,220	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,224	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,224	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,523	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,536	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,536	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,549	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,564	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,564	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,853	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,855	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,862	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,995	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:55,996	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:55] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:14:56,433	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:56] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:14:56,449	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:56] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:14:56,687	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:14:56,694	ERROR	userRepository.py:36	len(RowItems): 6
+2024-06-24 17:14:56,729	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:14:56] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:15:32,476	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:15:32,572	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:15:33,304	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:15:33,310	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:15:34,578	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:15:34,923	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:34] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:15:34,944	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:34] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:34,947	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:34] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,253	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,254	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,255	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,256	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,266	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,267	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,563	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,581	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,582	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,583	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,588	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,590	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,875	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,892	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,893	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,903	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:35,903	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:35] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:15:36,351	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:36] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:15:36,356	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:36] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:15:36,602	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:15:36,618	ERROR	userRepository.py:36	len(RowItems): 6
+2024-06-24 17:15:36,646	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:15:36] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:17:16,044	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:17:16,133	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:17:16,899	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:17:16,904	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:17:19,908	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:17:20,266	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:17:20,284	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,299	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,602	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,605	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,607	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,614	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,614	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,624	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,913	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,914	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,924	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,924	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,930	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:20,939	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:20] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:21,225	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:21] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:21,240	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:21] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:21,242	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:21] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:21,242	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:21] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:21,251	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:21] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:21,697	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:21] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:17:21,704	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:21] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:17:21,991	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:17:22,057	ERROR	userRepository.py:36	len(RowItems): 6
+2024-06-24 17:17:22,091	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:22] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -
+2024-06-24 17:17:32,463	INFO	_internal.py:97	 * Detected change in 'D:\\kart\\Project\\Python\\python_my_stock_web\\app\\area\\cms\\controller\\user.py', reloading
+2024-06-24 17:17:32,553	INFO	_internal.py:97	 * Restarting with stat
+2024-06-24 17:17:33,300	WARNING	_internal.py:97	 * Debugger is active!
+2024-06-24 17:17:33,309	INFO	_internal.py:97	 * Debugger PIN: 259-074-455
+2024-06-24 17:17:33,850	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:17:34,222	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "GET /cms/user HTTP/1.1" 200 -
+2024-06-24 17:17:34,245	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/css/font-awesome5.10.0.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,246	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/css/google_fonts.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,562	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,562	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,566	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/css/bootstrap-icons1.4.1.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,568	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/css/style.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,574	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/plugins/datatables/dataTables.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,579	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,878	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/fonts/fa-solid-900.woff2 HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,881	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9 HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,882	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/js/jquery-3.4.1.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,889	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/js/bootstrap.bundle.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,898	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/lib/easing/easing.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:34,903	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:34] "[36mGET /assets/lib/waypoints/waypoints.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:35,192	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:35] "[36mGET /assets/plugins/jquery-validation-1.19.5/jquery.validate.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:35,196	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/js/bootstrap-datepicker.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:35,200	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:35] "[36mGET /assets/plugins/bootstrap-datepicker-1.9.0/locales/bootstrap-datepicker.zh-TW.min.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:35,205	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:35] "[36mGET /assets/js/main.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:35,220	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:35] "[36mGET /assets/plugins/datatables/dataTables.js HTTP/1.1[0m" 304 -
+2024-06-24 17:17:35,713	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:35] "[36mGET /assets/plugins/datatables/i18n/zh-HANT.json HTTP/1.1[0m" 304 -
+2024-06-24 17:17:35,719	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:35] "GET /cms/img/favicon.ico HTTP/1.1" 200 -
+2024-06-24 17:17:35,969	ERROR	user.py:24	index_At_user_At_cms
+2024-06-24 17:17:35,986	ERROR	userRepository.py:36	len(RowItems): 6
+2024-06-24 17:17:36,012	INFO	_internal.py:97	127.0.0.1 - - [24/Jun/2024 17:17:36] "[35m[1mPOST /cms/user?ajax=true&total_length=100 HTTP/1.1[0m" 500 -

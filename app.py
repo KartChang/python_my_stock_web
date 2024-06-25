@@ -31,3 +31,6 @@ logger.addHandler(rotation_logging_handler)
 
 if __name__ == "__main__":
     app.run(debug=True, port=7780)
+
+
+# PowerShell 轉換到虛擬環境 -> Scripts\activate.ps1  (cmd -> .bat)

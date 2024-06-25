@@ -24,7 +24,9 @@ app.permanent_session_lifetime = timedelta(minutes=20)
 from app.controller import home
 from app.controller import log
 
+from app.area.cms.controller import log as cms_log
 from app.area.cms.controller import home as cms_home
+from app.area.cms.controller import user as cms_user
 
 
 @app.route('/', defaults={'path': ''})

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        {% include 'cms/shared/head.html' %}
+        {% include 'cms/shared/head_script.html' ignore missing %}
+
+        <style>
+            .page-item.active .page-link {
+                background-color: black !important;
+                border: 1px solid black;
+            }
+            .page-item.disabled .page-link {
+                background-color: #191C24 !important;
+                border: 1px solid #191C24;
+                color: #343946 !important;
+            }
+            .page-link {
+                color: lightgray !important;
+            }
+        </style>
+	</head>
+	<body>
+        <div id="app" class="container-fluid position-relative d-flex p-0">
+            
+            {% include 'cms/shared/header.html' %}
+            
+            <!-- Content Start -->
+            <div class="content">
+
+                {% include 'cms/shared/header_navbar.html' %}
+
+                <div class="d-flex justify-content-between mt-3 px-4 align-items-end">
+                    <h2 style="font-weight: 500;">{{ model.PageTitle }}</h5>
+                    <div>
+                        <a href=""><i class="fa fa-home me-2"></i>Home</a> / {{ model.PageTitle }}
+                    </div>
+                </div>
+                
+                <div class="container-fluid pt-2 px-4">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-12">
+                            <div class="bg-secondary rounded h-100 p-4">
+                                <form id="search_form">
+                                    <div class="row g-4">
+                                        <div class="col-sm-12 col-xl-3">
+                                            <label for="text" class="form-label">帳號</label>
+                                        </div>
+                                        <div class="col-sm-12 col-xl-4">
+                                            <input type="text" class="form-control" name="Account" id="Account" value="{{ model.Account }}">
+                                        </div>
+                                        <div class="col-sm-12 col-lg-auto">
+                                            <button type="button" class="btn btn-default" onclick="location.reload();">清除篩選</button>
+                                            <button type="button" id="BtnSubmitSearch" class="btn btn-success">篩選</button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="container-fluid pt-4 px-4">
+                    <div class="bg-secondary rounded p-4">
+                        <div class="d-flex align-items-center justify-content-between mb-4">
+                            <h6 class="mb-0">{{ model.PageTitle }}</h6>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-striped text-start align-middle table-hover mb-0" id="data_list">
+                                <thead>
+                                    <tr>
+                                        <th>帳號</th>
+                                        <th>姓名</th>
+                                        <th>員編</th>
+                                        <th>部門</th>
+                                        <th>權限</th>
+                                        <th>狀態</th>
+                                        <th>更新者</th>
+                                        <th>更新日期</th>
+                                        <th class="text-center all">操作</th>
+                                    </tr>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                
+                {% include 'cms/shared/footer.html' %}
+
+            </div>
+
+        </div>
+
+        {% include 'cms/shared/footer_script.html' %}
+        
+        <!-- DataTables  & Plugins -->
+        <script src="{{ url_for('static', filename='cms/plugins/datatables/dataTables.js') }}"></script>
+        <script type=text/javascript>
+            $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+        </script>
+        <script>
+            var dataTableObj = null;
+            $(function () {
+                $('#BtnSubmitSearch').on('click', function () {
+                    // ResetLogOutTimer();
+                    var DataTablesId = 'DataTables_{{ model.CtrlName }}_{{ model.ActName}}'
+                    var DataTablesLibFolderPath = "{{ url_for('static', filename='cms/plugins/datatables/') }}";
+                    var filterFrmEleId = 'search_form';
+                    var tbEleId = 'data_list';
+                    var getRowCountUrl = "{{ url_for('index_At_user_At_cms', ajax='true', act='getTotalLength')|safe }}";
+                    var tbOrderBy = [[0, "desc"]];
+                    var tbAjaxUrl = "{{ url_for('index_At_user_At_cms', ajax='true')|safe }}";
+                    var tbColumns =  [
+                        { "name": "Account", "data": "Account" }, 
+                        { "name": "Name", "data": "Name" },
+                        { "name": "EmployeeNo", "data": "EmployeeNo" }, 
+                        { "name": "Department", "data": "Department" },
+                        { "name": "PermissionGroup", "data": "PermissionGroupNameListStr", "bSortable": false }, 
+                        { "name": "Status", "data": "StatusName" },
+                        { "name": "UpdateUserName", "data": "UpdateUserName" }, 
+                        { "name": "UpdateTime", "data": function (source, type, val) {return source.UpdateTime == '' || source.UpdateTime == null ? source.CreateTime : source.UpdateTime; } },
+                        {
+                            "name": "OPTION",
+                            "data": function (source, type, val) {
+                                var content = '\
+                                <a href="' + $SCRIPT_ROOT + '/cms/user/modify' + '/' + source.Id + '" class="btn btn-default"><i class="icon-clipboard6"></i>編輯</a>\
+                                ';
+                                content += '\
+                                <a href=\"#\" class=\"btn btn-default delete\" data-name=\"' + source.Name + '\" data-id=\"' + source.Id + '\"><i class=\"icon-cross2\"></i>刪除</a>\
+                                ';
+                                return content;
+                            },
+                            "bSortable": false
+                        }
+                    ];
+                    var tbDelRowUrl = $SCRIPT_ROOT + '/cms/user/delete';
+                    var CallbackFunc = (param1, param2) => { /*alert('ok');*/ };
+                    ShowDataTablePageInfo(DataTablesId, DataTablesLibFolderPath, filterFrmEleId, tbEleId, getRowCountUrl, tbOrderBy, tbAjaxUrl, tbColumns, tbDelRowUrl, CallbackFunc)
+
+                });
+
+                $('#BtnSubmitSearch').trigger('click');
+
+
+
+
+                // $.extend( DataTable.ext.classes, {
+                //     sLengthSelect: "custom-select custom-select-sm form-control-sm"
+                // } );
+                // dataTableObj = $('#data_list').DataTable({
+                //     responsive: {
+                //         details: {
+                //             display: DataTable.Responsive.display.modal({
+                //                 header: function (row) {
+                //                     var data = row.data();
+                //                     return '簡要資訊： ' + (data.Name == '' || data.Name == null ? '' : data.Name) + (data.Code == '' || data.Code == null ? '' : '(' + data.Code + ')');
+                //                 }
+                //             }),
+                //             renderer: DataTable.Responsive.renderer.tableAll({
+                //                 tableClass: 'table'
+                //             })
+                //         }
+                //     },
+                //     "lengthChange": true,
+                //     "autoWidth": false,
+                //     layout: {
+                //         topStart: {
+                //             buttons: ['copy', 'csv', 'excel', 'pdf', 'print', 'colvis']
+                //         },
+                //         topEnd: 'pageLength',
+                //         bottomStart: 'info',
+                //         bottomEnd: 'paging'
+                //     },
+                //     // "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"],
+                //     // dom: '<"row"<"col-sm-6"f><"col-sm-6 text-right"l>>' +
+                //     //     '<"row"<"col-sm-12"tr>>' +
+                //     //     '<"row mt-3 "<"col-sm-6"i><"col-sm-6"p>>',
+                //     "language": {
+                //         url: "{{ url_for('static', filename='plugins/datatables/i18n/zh-HANT.json') }}",
+                //     },
+                //     "searching": false,
+                //     "order": [[11, "desc"]],
+                //     createdRow: function (row, data, dataIndex) {
+                //         //console.log(data);
+                //         //$(row).addClass('clickable-row').attr('data-href', data.ModifyUrl);
+                //     },
+                //     // "columnDefs": [ {
+                //     //     "targets": 1,
+                //     //     "createdCell": function (td, cellData, rowData, row, col) {
+                //     //         $(td).attr('title', rowData.Name);
+                //     //     }
+                //     // } ],
+                //     "processing": true,
+                //     "serverSide": true,
+                //     "stateSave": true,
+                //     "stateSaveCallback": function(settings,data) {
+                //         localStorage.setItem('DataTables_{{ model.CtrlName }}_{{ model.ActName}}_' + settings.sInstance, JSON.stringify(data) )
+                //     },
+                //     "stateLoadCallback": function(settings) {
+                //         console.log('load DataTables_{{ model.CtrlName }}_{{ model.ActName}}_' + settings.sInstance);
+                //         return JSON.parse( localStorage.getItem( 'DataTables_{ model.CtrlName }}_{{ model.ActName}}_' + settings.sInstance ) )
+                //     },
+                //     "ajax": {
+                //         "url": "{{ url_for('index_At_user_At_cms', ajax='true', total_length=100)|safe }}",
+                //         "type": "POST",
+                //         "data": $("#search_form").serialize(),
+                //         "error": function (xhr, status, error) {
+                //             console.log(xhr.responseText);
+                //         }
+                //     },
+                //     "columns": [
+                //         { "name": "Account", "data": "Account" }, 
+                //         { "name": "Name", "data": "Name" },
+                //         { "name": "EmployeeNo", "data": "EmployeeNo" }, 
+                //         { "name": "Department", "data": "Department" },
+                //         { "name": "PermissionGroup", "data": "PermissionGroupNameListStr", "bSortable": false }, 
+                //         { "name": "Status", "data": "StatusName" },
+                //         { "name": "UpdateUserName", "data": "UpdateUserName" }, 
+                //         { "name": "UpdateTime", "data": function (source, type, val) {return source.UpdateTime == '' || source.UpdateTime == null ? source.CreateTime : source.UpdateTime; } },
+                //         {
+                //             "name": "OPTION",
+                //             "data": function (source, type, val) {
+                //                 var content = '\
+                //                 <a href="' + $SCRIPT_ROOT + '/cms/user/modify/' + source.Id + '" class="btn btn-default"><i class="icon-clipboard6"></i>編輯</a>\
+                //                 ';
+                //                 content += '\
+                //                 <a href=\"#\" class=\"btn btn-default delete\" data-name=\"' + source.Name + '\" data-id=\"' + source.Id + '\"><i class=\"icon-cross2\"></i>刪除</a>\
+                //                 ';
+                //                 return content;
+                //             },
+                //             "bSortable": false
+                //         }
+                //     ],
+                //     "initComplete": function (settings, json) {
+                //         dataTableObj.buttons().container().appendTo('#data_list_wrapper .col-sm-6:eq(0)');
+                //     },
+                //     "drawCallback": function (settings) {
+                //         console.log('drawCallback');
+                //         $("#data_list").off("click");
+                //         /*if (dataTableObj.fnSettings()._iDisplayStart > dataTableObj.fnSettings()._iRecordsTotal) {
+                //             setTimeout(function () { dataTableObj.fnPageChange('first'); }, 500);
+                //         }*/
+                //         if (dataTableObj.page.info().start > dataTableObj.page.info().recordsTotal) {
+                //             setTimeout(function () { dataTableObj.page('first').draw('page'); }, 500);
+                //         }
+
+                //         $("#data_list").on("click", "a.delete", function (e) { DeleteDataListItem(e, $(this).data("name"), $(this).data("del-url"), "", dataTableObj); });
+                //         $('#data_list input').each(function () {
+                //             $(this).closest('td').css('padding-top', '0').css('padding-bottom', '0').css('vertical-align', 'middle').find('input[type=number]').css('padding', '0').css('padding-left', '5px');
+                //         });
+                //         $('#data_list td>div.list-icons').each(function () {
+                //             $(this).closest('td').addClass('text-center');
+                //         });
+
+                //         $('#data_list .clickable-row').on('click', function () { location.href = $(this).data('href'); });
+
+                //         $('#data_list tbody tr').find('td:not\(:first-child\)').not(":last").on('click', function(){
+                //             $('#data_list tbody tr').removeClass('active');
+                //             $(this).closest('tr').find('td:first-child').trigger('click');
+                //             $(this).closest('tr').addClass('active');
+                //         });
+                //     }
+                // });
+            });
+        </script>
+
+	</body>
+</html>
