@@ -7,7 +7,7 @@ import numpy
 from flask import request,render_template,flash,abort,url_for,redirect,session,Flask,g,jsonify
 from app import app
 import app.area.cms.controller as baseController
-from app.model import baseMode
+from app.model import baseModel
 from app.utility_tools import function
 from app.view_models.cms.CMS_Home_ViewModel import CMS_Home_ViewModel
 # from app.repository.my_stock.stockRepository import StockRepository

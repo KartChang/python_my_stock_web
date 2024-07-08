@@ -13,11 +13,11 @@
         <link href="img/favicon.ico" rel="icon">
         
         <!-- Google Web Fonts -->
-        <link rel="stylesheet" href="{{ url_for('static', filename='cms/css/google_fonts.css') }}">
+        <link href="{{ url_for('static', filename='cms/css/google_fonts.css') }}" rel="stylesheet">
         
         <!-- Icon Font Stylesheet -->
-        <link rel="stylesheet" href="{{ url_for('static', filename='cms/css/font-awesome5.10.0.css') }}">
-        <link rel="stylesheet" href="{{ url_for('static', filename='cms/css/bootstrap-icons1.4.1.css') }}">
+        <link href="{{ url_for('static', filename='cms/css/font-awesome5.10.0.css') }}" rel="stylesheet">
+        <link href="{{ url_for('static', filename='cms/css/bootstrap-icons1.4.1.css') }}" rel="stylesheet">
 
         <!-- Libraries Stylesheet -->
         <link href="{{ url_for('static', filename='cms/lib/owlcarousel/assets/owl.carousel.min.css') }}" rel="stylesheet">
@@ -29,10 +29,12 @@
         <!-- Template Stylesheet -->
         <link href="{{ url_for('static', filename='cms/css/style.css') }}" rel="stylesheet">
         
-        <link rel="stylesheet" href="{{ url_for('static', filename='cms/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css') }}">
+        <link href="{{ url_for('static', filename='cms/plugins/bootstrap-datepicker-1.9.0/css/bootstrap-datepicker.css') }}" rel="stylesheet">
         
         <!-- DataTables -->
-        <link rel="stylesheet" href="{{ url_for('static', filename='cms/plugins/datatables/dataTables.css') }}">
+        <link href="{{ url_for('static', filename='cms/plugins/datatables/dataTables.css') }}" rel="stylesheet">
+
+        <link href="{{ url_for('static', filename='cms/plugins/sweetalert/sweetalert.css') }}" rel="stylesheet">
 
         <style type="text/css" lang="scss">
             :root {
@@ -103,5 +105,9 @@
 
             .dataTables_paginate .pagination {
                 flex-direction: row-reverse
+            }
+
+            .form-control:disabled, .form-control:read-only {
+                opacity: .7 !important;
             }
         </style>

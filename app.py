@@ -33,4 +33,9 @@ if __name__ == "__main__":
     app.run(debug=True, port=7780)
 
 
-# PowerShell 轉換到虛擬環境 -> Scripts\activate.ps1  (cmd -> .bat)
+# PowerShell 轉換到虛擬環境(cmd -> .bat) -> Scripts\activate.ps1  
+
+# pybabel extract -F babel.cfg -o messages.pot .
+# pybabel init -i messages.pot -d translations -l de
+# pybabel update -i messages.pot -d translations
+# pybabel compile -d ./app/locales

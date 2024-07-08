@@ -7,7 +7,7 @@ import numpy
 from flask import request,render_template,flash,abort,url_for,redirect,session,Flask,g,jsonify
 from app import app
 import app.controller as baseController
-from app.model import baseMode
+from app.model import baseModel
 from app.view_models.Home_ViewModel import Home_ViewModel
 from app.repository.my_stock.stockRepository import StockRepository
 
@@ -49,7 +49,7 @@ def index_At_home():
         return redirect(url_for('in_At_log'))
     RowItems = StockRepository().Find(None)
     if len(RowItems) > 0:
-        return json.dumps(RowItems, cls=baseMode.ComplexEncoder) + baseController.Get_Ctrl_Name(__file__)
+        return json.dumps(RowItems, cls=baseModel.ComplexEncoder) + baseController.Get_Ctrl_Name(__file__)
     else:
         return 'No Data'
     return "Hello, MVC框架!" + os.path.splitext(os.path.basename(__file__))[0]
@@ -60,7 +60,7 @@ def index_At_home():
 @app.route('/' + baseController.Get_Ctrl_Name(__file__) + '/get_top_10_change', methods=['POST','GET'])
 def get_top_10_change_At_home():
     print('-------------------------------------------------' + inspect.stack()[0][3])
-    CMS_QueryModel = baseMode.CMS_QueryModel()
+    CMS_QueryModel = baseModel.CMS_QueryModel()
     CMS_QueryModel.draw = request.values.get('draw', type=int)
     CMS_QueryModel.start = request.values.get('start', type=int)
     CMS_QueryModel.length = request.values.get('length', type=int)

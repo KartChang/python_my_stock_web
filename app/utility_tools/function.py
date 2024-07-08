@@ -1,4 +1,5 @@
 
+import datetime
 from functools import wraps
 from flask import request,render_template,flash,abort,url_for,redirect,session,Flask,g,jsonify
 
@@ -69,3 +70,17 @@ def StringIsNullOrWhiteSpace(SourceStr:str=None):
     if not SourceStr.strip():
         return True
     return False
+
+def obj_dict(obj):
+    if isinstance(obj, tuple):
+        return {'__tuple__': True, 'items': list(obj)}
+    elif isinstance(obj, list):
+        return [obj_dict(item) for item in obj]
+    elif isinstance(obj, dict):
+        return {key: obj_dict(value) for key, value in obj.items()}
+    elif isinstance(obj, datetime.datetime):
+        return obj.strftime('%Y-%m-%d %H:%M:%S')
+    elif isinstance(obj, datetime.date):
+        return obj.strftime('%Y-%m-%d')
+    else:
+        return obj.__dict__

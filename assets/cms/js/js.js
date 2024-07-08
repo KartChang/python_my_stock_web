@@ -144,3 +144,65 @@ function ShowDataTablePageInfo(DataTablesId, DataTablesLibFolderPath, filterFrmE
         });
     }
 }
+
+function SubmitCMSDetailForm(formId, CRUD_Action, SubmitUrl, BackUrl, ModifyUrl) {
+    var formData = new FormData($('#' + formId)[0]);
+    $.ajax({
+        type: 'POST',
+        url: SubmitUrl,
+        data: formData,
+        dataType: "json",
+        cache: false,
+        processData: false,
+        contentType: false,
+        error: function (xhr) {
+            console.log(xhr);
+            if (xhr.Message == undefined) {
+                swal("錯誤", '操作錯誤！', 'error');
+            }
+            else {
+                swal("錯誤", xhr.Message, 'error');
+            }
+        },
+        // beforeSend: function (xhr) {
+        //     xhr.setRequestHeader("requestverificationtoken",
+        //         $('#' + formId + ' input:hidden[name="__RequestVerificationToken"]').val());
+        // },
+        success: function (data) {
+            //console.log(data);
+            if (data.result) {
+                swal({
+                    title: "Success!",
+                    text: data.msg,
+                    type: "success",
+                    allowOutsideClick: false,
+                    allowEscapeKey: false,
+                    showCancelButton: true,
+                    cancelButtonText: '停留此頁',
+                    confirmButtonText: "回列表",
+                    confirmButtonColor: "#5dc35d",
+                }, function (IsConfirm) {
+                    if (IsConfirm == 1) {
+                        //window.location.reload();
+                        //dataTableObj.DataTable().ajax.reload();
+                        location.href = BackUrl;
+                    }
+                    else {
+                        if (CRUD_Action == '1') {
+                            location.replace(ModifyUrl + '/' + data.InsertId);
+                        }
+                        else {
+                            // location.reload();
+                        }
+                    }
+                });
+            } else {
+                if (data.fields_err_msg != null && Object.keys(data.fields_err_msg).length > 0) {
+                    ShowFieldValidError(formId, data.fields_err_msg)
+                } else {
+                    swal("錯誤", data.msg, 'error');
+                }
+            }
+        }
+    });
+}

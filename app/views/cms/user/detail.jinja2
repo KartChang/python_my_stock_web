@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        {% include 'cms/shared/head.html' %}
+        {% include 'cms/shared/head_script.html' ignore missing %}
+
+        <style>
+            .page-item.active .page-link {
+                background-color: black !important;
+                border: 1px solid black;
+            }
+            .page-item.disabled .page-link {
+                background-color: #191C24 !important;
+                border: 1px solid #191C24;
+                color: #343946 !important;
+            }
+            .page-link {
+                color: lightgray !important;
+            }
+        </style>
+	</head>
+	<body>
+        <div id="app" class="container-fluid position-relative d-flex p-0">
+            
+            {% include 'cms/shared/header.html' %}
+            
+            <!-- Content Start -->
+            <div class="content">
+
+                {% include 'cms/shared/header_navbar.html' %}
+
+                <div class="d-flex justify-content-between mt-3 px-4 align-items-end">
+                    <h2 style="font-weight: 500;">{{ model._PageTitle }}</h5>
+                    <div>
+                        <a href=""><i class="fa fa-home me-2"></i>Home</a> / {{ model._PageTitle }}
+                    </div>
+                </div>
+                
+                <div class="container-fluid pt-2 px-4">
+                    <div class="row g-4">
+                        <div class="col-sm-12 col-xl-12">
+                            <div class="bg-secondary rounded h-100 p-4">
+                                <form id="form1">
+                                
+                                    <fieldset class="mb-3">
+                                                
+                                        <div class="row mb-2">
+                                            <div class="col-md-6 mb-2">
+                                                <div class="row">
+                                                    <label class="col-form-label col-md-4" for="Account">帳號</label>
+                                                    <div class="col-md-8">
+                                                        <input type="text" class="form-control" name="Account" id="Account" value="{{ model.Account }}" {{ 'readonly' if not StringIsNullOrWhiteSpace(model.Account) else '' }} />
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6 mb-2">
+                                                <div class="row">
+                                                    <label class="col-form-label col-md-4" for="Status">狀態</label>
+                                                    <div class="col-md-8 pt-2">
+                                                        <div class="form-check form-check-inline ps-0">
+                                                            <input id="Status_{{ StatusOption.Enable.value }}" name="Status" type="radio" value="{{ StatusOption.Enable.value }}" {{ 'checked' if model.Status == None or model.Status == StatusOption.Enable.value else '' }}>
+                                                            {# <label for="Status_{{ StatusOption.Enable.value }}">{{ _('StatusOption_' + StatusOption.Enable.name)}}</label> #}
+                                                            <label for="Status_{{ StatusOption.Enable.value }}">{{ StatusOption.Enable.description }}</label>
+                                                        </div>
+                                                        <div class="form-check form-check-inline">
+                                                            <input id="Status_{{ StatusOption.Disable.value }}" name="Status" type="radio" value="{{ StatusOption.Disable.value }}" {{ 'checked' if model.Status != None and model.Status == StatusOption.Disable.value else '' }}>
+                                                            {# <label for="Status_{{ StatusOption.Disable.value }}">{{ _('StatusOption_' + StatusOption.Disable.name)}}</label> #}
+                                                            <label for="Status_{{ StatusOption.Disable.value }}">{{ StatusOption.Disable.description }}</label>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="col-md-6 mb-2">
+                                                <div class="row">
+                                                    <label class="col-form-label col-md-4" for="Name">姓名</label>
+                                                    <div class="col-md-8">
+                                                        <input type="text" class="form-control" name="Name" id="Name" value="{{ model.Name }}" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <div class="col-md-6 mb-2">
+                                                <div class="row">
+                                                    <label class="col-form-label col-md-4" for="EmployeeNo">員工編號</label>
+                                                    <div class="col-md-8">
+                                                        <input type="text" class="form-control" name="EmployeeNo" id="EmployeeNo" value="{{ model.EmployeeNo }}" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        
+                                            <div class="col-md-6 mb-2">
+                                                <div class="row">
+                                                    <label class="col-form-label col-md-4" for="Department">部門</label>
+                                                    <div class="col-md-8">
+                                                        <input type="text" class="form-control" name="Department" id="Department" value="{{ model.Department }}" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </fieldset>
+
+                                    <fieldset class="mb-3">
+                                        <legend class="text-uppercase font-size-sm font-weight-bold">權限設定</legend>
+
+                                        <table class="table table-bordered table-striped" id="data_list">
+                                            <thead>
+                                                <tr>
+                                                    <th class="text-center" id="BtnSelectAllPermissionGroup" style="cursor: pointer">選擇(全選)</th>
+                                                    <th>權限名稱</th>
+                                                    <th>啟用</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                {% for PermissionGroupItem in model.PermissionGroupItems %}
+                                                    <tr>
+                                                        <td class="text-center">
+                                                            <input type="checkbox" name="PermissionGroup" id="PermissionGroup_{{ PermissionGroupItem.Id }}" value="{{ PermissionGroupItem.Id }}" {{ 'checked' if PermissionGroupItem.Id in model.PermissionGroupIds else '' }} />
+                                                        </td>
+                                                        <td><label for="PermissionGroup_{{ PermissionGroupItem.Id }}">{{ PermissionGroupItem.Name }}</label></td>
+                                                        <td>{{ _('StatusOption_' + (StatusOption.Enable.name if PermissionGroupItem.Status == 1 else StatusOption.Disable.name)) }}</td>
+                                                    </tr>
+                                                {% endfor %}
+                                            </tbody>
+                                        </table>
+
+                                    </fieldset>
+
+                                    <div class="text-right">
+                                        <button type="button" class="btn btn-light ml-2" onclick="history.back()"><i class="icon-undo2"></i> 回上頁</button>
+                                        <button type="button" class="btn btn-primary ml-2" id="BtnSubmit"><i class="icon-checkmark"></i> 儲存</button>
+                                    </div>
+                                    
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                {% include 'cms/shared/footer.html' %}
+
+            </div>
+
+        </div>
+
+        {% include 'cms/shared/footer_script.html' %}
+        
+        <script type=text/javascript>
+            $SCRIPT_ROOT = {{ request.script_root|tojson|safe }};
+        </script>
+        <script>
+            $(function () {
+                $('#BtnSubmit').on('click', function () {
+                    if ($('#form1').valid()) {
+                        var CRUD_Action = '{{ model._CRUD_Action.value }}';
+                        var SubmitUrl = '{{ url_for("add_At_user_At_cms") if model._CRUD_Action == baseModel.CRUD_Action.Create else url_for("modify_At_user_At_cms", id = model.Id) }}';
+                        var BackUrl = '{{ url_for("index_At_user_At_cms") }}';
+                        var ModifyUrl = '{{ url_for("modify_At_user_At_cms", id = "") }}';
+                        console.log(CRUD_Action);
+                        console.log(SubmitUrl);
+                        console.log(BackUrl);
+                        console.log(ModifyUrl);
+                        SubmitCMSDetailForm('form1', CRUD_Action, SubmitUrl, BackUrl, ModifyUrl);
+                    }
+                    return false;
+                });
+            });
+        </script>
+
+	</body>
+</html>
